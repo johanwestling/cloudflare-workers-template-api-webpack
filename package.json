@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "cloudflare-workers-template-api-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}

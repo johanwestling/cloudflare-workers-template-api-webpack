@@ -1,0 +1,5 @@
+name = "$worker_name"
+type = "javascript"
+route = "$worker_route"
+account_id = "$CF_ACCOUNT_ID"
+zone_id = "$CF_ZONE_ID"
